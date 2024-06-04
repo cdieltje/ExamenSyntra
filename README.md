@@ -1,7 +1,7 @@
-# Project: project-productie-proces
+# Project: Birthday analysis
 - Name student: Carlo Dieltjens
 - GitHub repository: https://github.com/cdieltje/ExamenSyntra
-- Project date: June 2024
+- Project date: Birthday analysis
 
 ### Set up your virtual environment
 - Import 'environment.yaml' (in the same folder as 'README.md'), e.g. with Anaconda Navigator -> Environments -> Import
