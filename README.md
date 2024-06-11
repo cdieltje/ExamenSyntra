@@ -2,6 +2,7 @@
 - Name student: Carlo Dieltjens
 - GitHub repository: https://github.com/cdieltje/ExamenSyntra
 - Project date: Birthday analysis
+- The solution of part 2 is in notebook 'examen_deel2'
 
 ### Set up your virtual environment
 - Import 'environment.yaml' (in the same folder as 'README.md'), e.g. with Anaconda Navigator -> Environments -> Import
